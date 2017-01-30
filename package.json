@@ -6,10 +6,19 @@
   "scripts": {
     "start": "node index.js"
   },
-  "author": "",
+  "author": "Pandiyan",
   "license": "MIT",
   "dependencies": {
     "twit": "^2.2.5",
     "unique-random-array": "^1.0.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spences10/twitter-bot-bootstrap.git"
+  },
+  "bugs": {
+    "url": "https://github.com/spences10/twitter-bot-bootstrap/issues"
+  },
+  "homepage": "https://github.com/spences10/twitter-bot-bootstrap#readme"
 }

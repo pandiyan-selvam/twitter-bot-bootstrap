@@ -1,8 +1,8 @@
 module.exports = {
     queryString: [
-        '',
-        '',
-        ''
+        'android',
+        'google',
+        'nexus'
     ],
     queryStringSubQuery: [
         '',

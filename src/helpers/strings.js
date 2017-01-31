@@ -5,7 +5,7 @@ module.exports = {
         'nexus'
     ],
     queryStringSubQuery: [
-        '',
+        'LG',
         '',
         ''
     ],
